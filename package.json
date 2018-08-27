@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Ideal webpack setup",
   "main": "index.js",
-  "repository": "git@github.com:kimobrian/Webpack-Setup.git",
-  "author": "kimobrian <brian.kimokoti@andela.com>",
+  "author": "James Dawson",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --history-api-fallback --inline --progress",
